@@ -1,0 +1,14 @@
+{
+  "total_employees": 1,
+  "total_tasks": 3,
+  "employee_stats": {
+    "Unassigned": {
+      "total_tasks": 3,
+      "completed_tasks": 0,
+      "pending_tasks": 3,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    }
+  }
+}
