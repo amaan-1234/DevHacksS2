@@ -1,0 +1,46 @@
+{
+  "total_employees": 5,
+  "total_tasks": 22,
+  "employee_stats": {
+    "User 1": {
+      "total_tasks": 1,
+      "completed_tasks": 0,
+      "pending_tasks": 1,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    },
+    "User 5": {
+      "total_tasks": 1,
+      "completed_tasks": 0,
+      "pending_tasks": 1,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    },
+    "User 4": {
+      "total_tasks": 1,
+      "completed_tasks": 0,
+      "pending_tasks": 1,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    },
+    "User 3": {
+      "total_tasks": 1,
+      "completed_tasks": 0,
+      "pending_tasks": 1,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    },
+    "Unassigned": {
+      "total_tasks": 18,
+      "completed_tasks": 0,
+      "pending_tasks": 18,
+      "overdue_tasks": 0,
+      "due_soon_tasks": 0,
+      "completion_rate": 0.0
+    }
+  }
+}
